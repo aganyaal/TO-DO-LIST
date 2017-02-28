@@ -1,6 +1,6 @@
 #To Do List
 
-[Project site](https://github.com/aganyaal/TO-DO-LIST)
+[Project site](https://aganyaal.github.io/TO-DO-LIST)
 
 Authors: [Al Aganya]+ Steve Kiarie
 
